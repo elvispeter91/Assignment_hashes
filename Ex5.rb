@@ -30,7 +30,7 @@ gameData = [
         { "name"=> "Sree", "location"=> "Alberta", "status"=> "Awesome" },
         { "name"=> "Sandra", "location"=> "Neverland", "status"=> "newbie" },
         { "name"=>"Elton", "location"=> "New Delhi", "status"=> "Awesome" },
-        { "name"=> "Kmen", "location"=> "Neverland", "status"=> "newbie" }
+        { "name"=> "Kmen", "location"=> "Neverland", "status"=> "newbie" },
         { "name"=> "Evlyn", "location"=> "Zurich", "status"=> "expert" },
         { "name"=> "Kiwi", "location"=> "Mexico", "status"=> "expert" }
       ]
